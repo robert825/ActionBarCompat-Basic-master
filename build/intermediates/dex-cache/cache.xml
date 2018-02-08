@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_5d3e37a0d9b035432ec1bbc69da978e6ce52069f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_76bf77c0060102d1bb2ce903df12bebd4c4bfe54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rjf6tp/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_3475520f7fd9af35d234e4a277824229e8b635e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_f0df0ce9385b15819522b5d3a2317866d1c12f4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rjf6tp/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/25.4.0/f6a2fc748ae3769633dea050563e1613e93c135e/support-annotations-25.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/pre-dexed/debug/support-annotations-25.4.0_719d40610f219bf15388f049827f256a26f47092.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_33a3f25947ac34458bf47055d826fedd39b495a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/pre-dexed/debug/com.android.support-design-22.2.0_ba113dfcdf629eab5e7fee0ce156869821ad8686.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_bfef83e8cbe1e6ac952144c41b7ea1245a6d1a1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_8c05b01e5cc185e756440e3965ac5f02bd5bef1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_796fdfa58f87d87b932afb972cb446add0dcb2cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_ee11a73fec20855d00eac473968a70bb49bba954.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4700f436ede140fb804204f806c9cc3f08e386f4">
+        <dex dex="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-25.0.1_0bb7fbefab9e9a0daecf796587f58d3940fa7c78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_e7633c6a5f19a03c4d3cceb5f73194909ff06704.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_c6d8aaa8b12efa73f9f7fae52cc6021c688ebd43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.1_c0665dde105d7a8162ce55dbd92410b880055f4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_6df709427726783222d17125611b5ac9f2862d7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_fb53c5869b70bb78cd95c32a273f654c246b5919.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_10f72fe70dd5d24f930a6dbd8dea3956b3e3db24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_b36ebb9736a1cb2e6edf273961bd5322e45a8845.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/rjf6tp/Downloads/ActionBarCompat-Basic-master/Application/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_7426afc13391272a94560a7814bbf4627825e058.jar" />
+    </item>
+
+</items>
